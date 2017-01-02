@@ -1,2 +1,3 @@
-node_modules
-temp_modules
+node_modules/*
+!node_modules/simple-react-utilities
+!node_modules/simple-react-forms
